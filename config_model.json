@@ -1,0 +1,15 @@
+{
+    "max_sentences": 5,
+    "max_words": 35,
+    "vocab_size": 15905,
+    "embedding_dim": 128,
+    "word_lstm_units": 64,
+    "sent_lstm_units": 64,
+    "target_labels": [
+        "HS_Religion",
+        "HS_Physical",
+        "HS_Individual",
+        "HS_Group"
+    ],
+    "random_seed": 42
+}
